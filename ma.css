@@ -1,0 +1,20 @@
+body {
+    background-image: url(/img/1818091.jpg);
+    color: aliceblue;
+}
+
+ul {
+    text-align: right;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
