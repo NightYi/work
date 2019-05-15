@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/blogAssets_2016_October+2016_October28_DeadByDaylight_05_Game-Screenshot_Meat-hook_770-770x481-bb2028e3be1a417c1d5dc1afd093f89a048adb47.png);
+    background-image: url(blogAssets_2016_October+2016_October28_DeadByDaylight_05_Game-Screenshot_Meat-hook_770-770x481-bb2028e3be1a417c1d5dc1afd093f89a048adb47.png);
     color: aliceblue;
 }
 
@@ -13,4 +13,12 @@ h1 {
 
 p {
     text-align: center;
+}
+
+a:link {
+    color: aliceblue;
+}
+
+a:visited {
+    color: aliceblue;
 }

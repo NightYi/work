@@ -4,6 +4,7 @@ li {
 
 h1 {
     text-align: center;
+    color: aliceblue;
 }
 
 a:link {
@@ -15,22 +16,20 @@ a:visited {
 }
 
 body {
-    background-image: url(THB-Killers.jpg);
-    color: aliceblue;
+    background-image: url(min.png);
 }
 
 p {
+    color: aliceblue;
     text-align: center;
 }
 
-.view {
-    color: aquamarine
-}
-
-#gost {
+.me {
     color: aqua
 }
 
-.container {
-    margin-top: 20px
+.view {
+    color: aquamarine;
+    text-align: center;
+    margin-top: 50px;
 }

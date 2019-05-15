@@ -1,0 +1,34 @@
+li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+a:link {
+    color: aliceblue;
+}
+
+a:visited {
+    color: aliceblue;
+}
+
+body {
+    background-image: url("3e04eb391d2984c27229a5bf86d15186.jpg")
+}
+
+p {
+    color: cyan;
+}
+
+.me {
+    color: aliceblue;
+    text-align: center
+}
+
+.ma {
+    margin-top: 200px;
+    color: cornflowerblue
+}

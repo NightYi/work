@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/1818091.jpg);
+    background-image: url(1818091.jpg);
     color: aliceblue;
 }
 
@@ -17,4 +17,12 @@ h1 {
 
 p {
     text-align: center;
+}
+
+a:link {
+    color: aliceblue;
+}
+
+a:visited {
+    color: aliceblue;
 }
